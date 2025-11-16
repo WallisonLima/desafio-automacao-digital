@@ -34,5 +34,4 @@ ________________________________________
 📎 Estrutura do Projeto
 /src
   main.py
-  funcoes.py
 README.md
